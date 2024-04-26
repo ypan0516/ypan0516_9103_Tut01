@@ -12,3 +12,8 @@ This is my second commit!!!
 ** Bold Text**
 
 *Italic text*
+
+- Item 1 
+- Item 2
+ - Sub item 1
+ - sub item 2
